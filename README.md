@@ -15,13 +15,14 @@ _June 2022 - present_
 - Integrated Advantech's next-generation clinic Kiosk machines to enhance clinic efficiency.
 - Integrated Line@ services to provide patients with various clinical services, such as making appointments, viewing shift schedules, and more.
 
-**Project: HIX(Hospital Information System) June 2022 ~ present**
-- Developing and maintaining backend APIs.
-- Designing table schema.
-- Code Review and testing.
-- Integrating third-party services.
+**Project:**
+1. **HIX(Hospital Information System) June 2022 ~ present**
+    - Developing and maintaining backend APIs.
+    - Designing table schema.
+    - Code Review and testing.
+    - Integrating third-party services.
   
-**Tech Stack:** NodeJs, Typescript, ExpressJS, Mariadb, ChaiJS, Sock.IO, Docker
+    **Tech Stack:** NodeJs, Typescript, ExpressJS, Mariadb, ChaiJS, Sock.IO, Docker
 
 ### Software Engineer • Azure Information Technology Co., Ltd. 慶燁科技股份有限公司
 _January 2020 - January 2022_

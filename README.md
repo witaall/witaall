@@ -9,15 +9,15 @@ Taipei City, Taiwan
 
 ### Backend Engineer • HygeAI Co., Ltd. 采醫智展股份有限公司
 _June 2022 - present_
-- Collaborating with the front-end team to define APIs and data structures.
+- Developing and Maintaining RESTful APIs for our hospital information system to improve efficiency for nurses and doctors.
+- Modularized various applications and added new modules based on customer requirements, such as Line@ services and Kiosk services, to achieve diverse pricing strategies and system flexibility.
 - Responsible for conducting training sessions on specific parts of HIS, and mentoring new staff.
-- Writing unit tests and conducting peer code reviews.
 - Integrated Advantech's next-generation clinic Kiosk machines to enhance clinic efficiency.
 - Integrated Line@ services to provide patients with various clinical services, such as making appointments, viewing shift schedules, and more.
 
 **Project:**
 1. **HIX(Hospital Information System) June 2022 ~ present**
-    - Developing and maintaining backend APIs.
+    - Developing and maintaining backend APIs and Writing unit tests
     - Designing table schema.
     - Code Review and testing.
     - Integrating third-party services.
@@ -26,21 +26,21 @@ _June 2022 - present_
 
 ### Software Engineer • Azure Information Technology Co., Ltd. 慶燁科技股份有限公司
 _January 2020 - January 2022_
+- Developed full stack application which needs to handle hundreds of thousands of bank transactions per day.
 - Worked with PM and BA to develop business programs for local banks and foreign banks.
 - Refactored the old framework web applications which reduced maintenance costs.
-- Developed full stack application which needs to handle hundreds of thousands of bank transactions per day.
 - Lead a product training session for nearly 60 people, including engineers from our company and other bank employees.
 
 **Projects:**
 1. **ANZ(澳盛銀行) - Internal trading system January 2020 ~ May 2021**
-    - Set up a new system environment.
+    - Developed a java web application for bank employees to handle transactions and generate reports, among other tasks.
     - Migrated the old system to a new system.
-    - Rebuilt a new web application for ANZ's staff.
+    - Lead a product training session and authored operational documentation for bank employees.
 
-    **Tech Stack:** Java 8, Servlet, JSP, JavaScript, HTML, CSS
+    **Tech Stack:** Java 8, Servlet, JSP, JavaScript, HTML, CSS, OracleDB
 
 2. **TSB(台新銀行) - Card reading system June 2021 ~ November 2021**
-    - Refactored the old Java Applet program into a JavaScript frontend service.
+    - Developed a new card reading module  based on Ｗebsocket to replace the old service that was dependent on IE.
 
     **Tech Stack:** NodeJs, JavaScript, WebSocket
 

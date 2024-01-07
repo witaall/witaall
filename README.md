@@ -4,6 +4,7 @@ Taipei City, Taiwan
 
 **Email:** witaall@gmail.com  
 **Phone:** (886)910520586
+**Medium:** https://medium.com/@witaall
 
 ## Work Experience
 

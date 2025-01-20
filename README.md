@@ -4,12 +4,34 @@ Taipei City, Taiwan
 
 **Email:** witaall@gmail.com  
 **Phone:** (886)910520586  
-**Medium:** https://medium.com/@witaall
 
 ## Work Experience
 
+### Backend Engineer • Aiplux 睿加科技股份有限公司
+_October 2023 - present_
+- Developing and Maintaining RESTful APIs.
+- Led a team of junior engineers in development.
+- Refactored legacy systems into new systems, enabling services to handle traffic tens of times higher than the previous capacity. 
+
+**Project:**
+1. **Inpas October 2023 ~ present**
+    - Developing and maintaining backend APIs and Writing unit tests
+    - Designing table schema and backend system.
+    - Code Review and testing.
+    - Integrating AI team services.
+  
+    **Tech Stack:** NodeJs, Typescript, ExpressJS, Jest, Mysql, GCP
+
+2. **Trademark October 2024 ~ present**
+    - Developing and maintaining backend APIs
+    - Designing table schema and backend system..
+    - Code Review and testing.
+  
+    **Tech Stack:** NodeJs, Typescript, ExpressJS, Jest, Mysql, GCP
+
+
 ### Backend Engineer • HygeAI Co., Ltd. 采醫智展股份有限公司
-_June 2022 - present_
+_June 2022 - October 2023_
 - Developing and Maintaining RESTful APIs for our hospital information system to improve efficiency for nurses and doctors.
 - Modularized various applications and added new modules based on customer requirements, such as Line@ services and Kiosk services, to achieve diverse pricing strategies and system flexibility.
 - Responsible for conducting training sessions on specific parts of HIS, and mentoring new staff.
@@ -17,7 +39,7 @@ _June 2022 - present_
 - Integrated Line@ services to provide patients with various clinical services, such as making appointments, viewing shift schedules, and more.
 
 **Project:**
-1. **HIX(Hospital Information System) June 2022 ~ present**
+1. **HIX(Hospital Information System) June 2022 ~ October 2023**
     - Developing and maintaining backend APIs and Writing unit tests
     - Designing table schema.
     - Code Review and testing.

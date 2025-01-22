@@ -20,15 +20,16 @@ _October 2023 – Present_
 **Projects:**  
 
 1. **Inpas (2023 – Present)**  
-   - Designed and maintained backend APIs for a high-traffic application using **Node.js**, **TypeScript**, and **Express.js**.  
+   - Designed and maintained backend APIs for a high-traffic application using **TypeScript**, **Express.js**, **GCP**, **MongoDB** and **Mysql**.  
    - Conducted code reviews to ensure code quality and reliability.  
-   - Developed comprehensive unit tests using **Jest**, achieving 85% test coverage.  
+   - Developed comprehensive unit tests using **Jest**.  
    - Set up a complete CI/CD pipeline using GitLab to streamline deployment processes.  
 
 2. **Trademark (2024 – Present)**  
-   - Developed a scalable API for managing trademark applications using **Node.js**, **MySQL**, and **GCP**.  
+   - Developed a scalable API for managing trademark applications using **TypeScript**, **Express.js**, **GCP**, and **Mysql**.  
    - Designed a fault-tolerant system architecture to ensure service reliability.  
-   - Collaborated with product teams to define database schema and optimize business logic.  
+   - Collaborated with product teams to define database schema and optimize business logic.
+   - Set up a complete CI/CD pipeline using GitLab to streamline deployment processes.  
 
 ---
 
